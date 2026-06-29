@@ -1,0 +1,67 @@
+# 🚀 Space Research
+
+> Artificial Intelligence for Astronomy and Space Science
+
+Welcome to my Space Research repository.
+
+This repository contains my research projects, experiments, and open-source tools focused on applying Artificial Intelligence to Astronomy and Space Science.
+
+---
+
+## 🎯 Research Goals
+
+- 🌌 Astronomical Image Processing
+- ☄️ Asteroid Detection
+- 🪐 Exoplanet Detection
+- 🌠 Galaxy Classification
+- 🤖 Deep Learning for Space Science
+- 📡 Space Data Analysis
+
+---
+
+## 📂 Repository Structure
+
+```
+astronomy-ai/
+datasets/
+papers/
+experiments/
+utils/
+docs/
+```
+
+---
+
+## 🛠️ Technologies
+
+- Python
+- PyTorch
+- TensorFlow
+- OpenCV
+- NumPy
+- Pandas
+- Jupyter Notebook
+
+---
+
+## 📖 Current Status
+
+🚧 This repository is under active development.
+
+New research projects and experiments will be added regularly.
+
+---
+
+## 🌍 Vision
+
+My goal is to contribute to space science by developing Artificial Intelligence systems that help researchers analyze astronomical data and support future space exploration.
+
+---
+
+## 📫 Contact
+
+GitHub: @YourUsername
+
+---
+
+⭐ If you are interested in AI for Space Science, feel free to explore this repository.
